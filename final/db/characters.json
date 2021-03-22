@@ -10,16 +10,53 @@
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest/scale-to-width-down/343?cb=20190714094440"
 		},
 		{
-            "id":2,
-            "name":"Sansa Stark",
-            "birthDate":"285 AC",
-            "appearances":"59",
-            "status":"Alive",
-            "potrayedBy":"Sophie Turner",
-            "photoUrl":"https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest/scale-to-width-down/301?cb=20210215100224"
+			"id": 2,
+			"name": "Sansa Stark",
+			"birthDate": "285 AC",
+			"appearances": "59",
+			"status": "Alive",
+			"potrayedBy": "Sophie Turner",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest/scale-to-width-down/301?cb=20210215100224"
+		},
+		{
+			"id": 3,
+			"name": "Arya Stark",
+			"birthDate": "287 AC",
+			"appearances": "59",
+			"status": "Alive",
+			"potrayedBy": "Maisie Williams",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/AryaShipIronThrone.PNG/revision/latest/scale-to-width-down/335?cb=20190520174300"
+		},
+		{
+			"id": 4,
+			"name": "Brandon Stark",
+			"birthDate": "288 AC",
+			"appearances": "40",
+			"status": "Alive",
+			"potrayedBy": "Isaac Hempstead-Wright",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/KingBran.PNG/revision/latest/scale-to-width-down/336?cb=20190520173855"
+		},
+		{
+			"id": 5,
+			"name": "Brienne of Tarth",
+			"birthDate": "274 AC",
+			"appearances": "42",
+			"status": "Alive",
+			"potrayedBy": "Gwendoline Christie",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest/scale-to-width-down/310?cb=20190423165941"
+		},
+		{
+            "id":6,
+            "name":"Daenerys Targaryen",
+            "birthDate":"281 AC",
+            "appearances":"62",
+            "status":"Deceased",
+            "potrayedBy":"Emilia Clarke",
+            "photoUrl":"https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013"
 
         },
         {
+            "id":7,
             
         }
 	]
