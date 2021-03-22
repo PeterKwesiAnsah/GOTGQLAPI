@@ -46,18 +46,71 @@
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest/scale-to-width-down/310?cb=20190423165941"
 		},
 		{
-            "id":6,
-            "name":"Daenerys Targaryen",
-            "birthDate":"281 AC",
-            "appearances":"62",
-            "status":"Deceased",
-            "potrayedBy":"Emilia Clarke",
-            "photoUrl":"https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013"
-
-        },
+			"id": 6,
+			"name": "Daenerys Targaryen",
+			"birthDate": "281 AC",
+			"appearances": "62",
+			"status": "Deceased",
+			"potrayedBy": "Emilia Clarke",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013"
+		},
+		{
+			"id": 7,
+			"name": "Tyrion Lannister",
+			"birthDate": "265 AC",
+			"appearances": "67",
+			"status": "Alive",
+			"potrayedBy": "Peter Dinklage",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest/scale-to-width-down/330?cb=20190520175204"
+		},
+		{
+			"id": 8,
+			"name": "Missandei",
+			"birthDate": "unknown",
+			"appearances": "38",
+			"status": "Deceased",
+			"potrayedBy": "Nathalie Emmanuel",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/de/Missandei8X04.PNG/revision/latest/scale-to-width-down/330?cb=20190722224410"
+		},
+		{
+			"id": 9,
+			"name": "Grey Worm",
+			"birthDate": "unknown",
+			"appearances": "34",
+			"status": "Alive",
+			"potrayedBy": "Jacob Anderson",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/7/77/Grey-Worm-S8E5.png/revision/latest/scale-to-width-down/345?cb=20190508211715"
+		},
+		{
+			"id": 10,
+			"name": "Jorah Mormont",
+			"birthDate": "unknown",
+			"appearances": "52",
+			"status": "Deceased",
+			"potrayedBy": "Iain Glen",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Winterfell_ep_Jorah_s8.jpg/revision/latest/scale-to-width-down/291?cb=20190418013520"
+		},
+		{
+			"id": 11,
+			"name": "Cersei Lannister",
+			"birthDate": "261 AC",
+			"appearances": "62",
+			"status": "Deceased",
+			"potrayedBy": "Lena Headey",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest/scale-to-width-down/338?cb=20190906021534"
+		},
+		{
+			"id": 12,
+			"name": "Jaime Lannister",
+			"birthDate": "261 AC",
+			"appearances": "55",
+			"status": "Deceased",
+			"potrayedBy": "Nikolaj Coster-Waldau",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b8/Jaime_S8_redemption_infobox.png/revision/latest/scale-to-width-down/350?cb=20190906020647"
+		},
         {
-            "id":7,
-            
+            "id":13,
+            "name":""
         }
 	]
 }
