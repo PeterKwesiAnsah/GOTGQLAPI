@@ -1,3 +1,26 @@
 {
-    "characters":[]
+	"characters": [
+		{
+			"id": 1,
+			"name": "Jon Snow",
+			"birthDate": "280 AC",
+			"appearances": "63",
+			"status": "Alive",
+			"potrayedBy": "Kit Harington",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest/scale-to-width-down/343?cb=20190714094440"
+		},
+		{
+            "id":2,
+            "name":"Sansa Stark",
+            "birthDate":"285 AC",
+            "appearances":"59",
+            "status":"Alive",
+            "potrayedBy":"Sophie Turner",
+            "photoUrl":"https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest/scale-to-width-down/301?cb=20210215100224"
+
+        },
+        {
+            
+        }
+	]
 }
