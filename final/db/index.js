@@ -1,9 +1,11 @@
 import low from 'lowdb';
-import FileSync  from 'lowdb/adapters/FileAsync.js';
+import FileSync from 'lowdb/adapters/FileSync.js';
 
 const adapter = new FileSync('characters.json');
-const db = low(adapter);
 
-//export database
-export default db;
-   
+const model=low(adapter)
+
+
+
+//export database model
+export default model;
