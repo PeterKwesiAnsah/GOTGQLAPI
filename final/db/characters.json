@@ -4,7 +4,7 @@
 			"id": 1,
 			"name": "Jon Snow",
 			"birthDate": "280 AC",
-			"appearances": "6 episodes3",
+			"appearances": "63 episodes",
 			"status": "Alive",
 			"potrayedBy": "Kit Harington",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest/scale-to-width-down/343?cb=20190714094440"
@@ -13,7 +13,7 @@
 			"id": 2,
 			"name": "Sansa Stark",
 			"birthDate": "285 AC",
-			"appearances": "5 episodes9",
+			"appearances": "59 episodes",
 			"status": "Alive",
 			"potrayedBy": "Sophie Turner",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest/scale-to-width-down/301?cb=20210215100224"
@@ -22,7 +22,7 @@
 			"id": 3,
 			"name": "Arya Stark",
 			"birthDate": "287 AC",
-			"appearances": "5 episodes9",
+			"appearances": "59 episodes",
 			"status": "Alive",
 			"potrayedBy": "Maisie Williams",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/AryaShipIronThrone.PNG/revision/latest/scale-to-width-down/335?cb=20190520174300"
@@ -31,7 +31,7 @@
 			"id": 4,
 			"name": "Brandon Stark",
 			"birthDate": "288 AC",
-			"appearances": "4 episodes0",
+			"appearances": "40 episodes",
 			"status": "Alive",
 			"potrayedBy": "Isaac Hempstead-Wright",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/KingBran.PNG/revision/latest/scale-to-width-down/336?cb=20190520173855"
@@ -40,7 +40,7 @@
 			"id": 5,
 			"name": "Brienne of Tarth",
 			"birthDate": "274 AC",
-			"appearances": "4 episodes2",
+			"appearances": "42 episodes",
 			"status": "Alive",
 			"potrayedBy": "Gwendoline Christie",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest/scale-to-width-down/310?cb=20190423165941"
@@ -49,7 +49,7 @@
 			"id": 6,
 			"name": "Daenerys Targaryen",
 			"birthDate": "281 AC",
-			"appearances": "6 episodes2",
+			"appearances": "62 episodes",
 			"status": "Deceased",
 			"potrayedBy": "Emilia Clarke",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013"
@@ -58,7 +58,7 @@
 			"id": 7,
 			"name": "Tyrion Lannister",
 			"birthDate": "265 AC",
-			"appearances": "6 episodes7",
+			"appearances": "67 episodes",
 			"status": "Alive",
 			"potrayedBy": "Peter Dinklage",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest/scale-to-width-down/330?cb=20190520175204"
@@ -67,7 +67,7 @@
 			"id": 8,
 			"name": "Missandei",
 			"birthDate": "unknown",
-			"appearances": "3 episodes8",
+			"appearances": "38 episodes",
 			"status": "Deceased",
 			"potrayedBy": "Nathalie Emmanuel",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/de/Missandei8X04.PNG/revision/latest/scale-to-width-down/330?cb=20190722224410"
@@ -76,7 +76,7 @@
 			"id": 9,
 			"name": "Grey Worm",
 			"birthDate": "unknown",
-			"appearances": "3 episodes4",
+			"appearances": "34 episodes",
 			"status": "Alive",
 			"potrayedBy": "Jacob Anderson",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/7/77/Grey-Worm-S8E5.png/revision/latest/scale-to-width-down/345?cb=20190508211715"
@@ -85,7 +85,7 @@
 			"id": 10,
 			"name": "Jorah Mormont",
 			"birthDate": "unknown",
-			"appearances": "5 episodes2",
+			"appearances": "52 episodes",
 			"status": "Deceased",
 			"potrayedBy": "Iain Glen",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Winterfell_ep_Jorah_s8.jpg/revision/latest/scale-to-width-down/291?cb=20190418013520"
@@ -94,7 +94,7 @@
 			"id": 11,
 			"name": "Cersei Lannister",
 			"birthDate": "261 AC",
-			"appearances": "6 episodes2",
+			"appearances": "62 episodes",
 			"status": "Deceased",
 			"potrayedBy": "Lena Headey",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest/scale-to-width-down/338?cb=20190906021534"
@@ -103,7 +103,7 @@
 			"id": 12,
 			"name": "Jaime Lannister",
 			"birthDate": "261 AC",
-			"appearances": "5 episodes5",
+			"appearances": "55 episodes",
 			"status": "Deceased",
 			"potrayedBy": "Nikolaj Coster-Waldau",
 			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b8/Jaime_S8_redemption_infobox.png/revision/latest/scale-to-width-down/350?cb=20190906020647"
