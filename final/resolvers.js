@@ -1,6 +1,6 @@
 //importing our characters data model
 import model from './db/index.js';
-
+console.log(model.getState())
 
 
 //creating resolvers

@@ -1,1 +1,238 @@
-{}
+{
+	"characters": [
+		{
+			"id": 1,
+			"name": "Jon Snow",
+			"birthDate": "280 AC",
+			"appearances": "63 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Kit Harington",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/d0/JonSnow8x06.PNG/revision/latest/scale-to-width-down/343?cb=20190714094440"
+		},
+		{
+			"id": 2,
+			"name": "Sansa Stark",
+			"birthDate": "285 AC",
+			"appearances": "59 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Sophie Turner",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/6/63/QueenSansa.PNG/revision/latest/scale-to-width-down/301?cb=20210215100224"
+		},
+		{
+			"id": 3,
+			"name": "Arya Stark",
+			"birthDate": "287 AC",
+			"appearances": "59 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Maisie Williams",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/be/AryaShipIronThrone.PNG/revision/latest/scale-to-width-down/335?cb=20190520174300"
+		},
+		{
+			"id": 4,
+			"name": "Brandon Stark",
+			"birthDate": "288 AC",
+			"appearances": "40 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Isaac Hempstead-Wright",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/8/81/KingBran.PNG/revision/latest/scale-to-width-down/336?cb=20190520173855"
+		},
+		{
+			"id": 5,
+			"name": "Brienne of Tarth",
+			"birthDate": "274 AC",
+			"appearances": "42 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Gwendoline Christie",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/a9/S8_Brienne_Profil.jpg/revision/latest/scale-to-width-down/310?cb=20190423165941"
+		},
+		{
+			"id": 6,
+			"name": "Daenerys Targaryen",
+			"birthDate": "281 AC",
+			"appearances": "62 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Emilia Clarke",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/301?cb=20190415212013"
+		},
+		{
+			"id": 7,
+			"name": "Tyrion Lannister",
+			"birthDate": "265 AC",
+			"appearances": "67 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Peter Dinklage",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/9/95/HandoftheKingTyrionLannister.PNG/revision/latest/scale-to-width-down/330?cb=20190520175204"
+		},
+		{
+			"id": 8,
+			"name": "Missandei",
+			"birthDate": "unknown",
+			"appearances": "38 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Nathalie Emmanuel",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/d/de/Missandei8X04.PNG/revision/latest/scale-to-width-down/330?cb=20190722224410"
+		},
+		{
+			"id": 9,
+			"name": "Grey Worm",
+			"birthDate": "unknown",
+			"appearances": "34 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Jacob Anderson",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/7/77/Grey-Worm-S8E5.png/revision/latest/scale-to-width-down/345?cb=20190508211715"
+		},
+		{
+			"id": 10,
+			"name": "Jorah Mormont",
+			"birthDate": "unknown",
+			"appearances": "52 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Iain Glen",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/2/26/Winterfell_ep_Jorah_s8.jpg/revision/latest/scale-to-width-down/291?cb=20190418013520"
+		},
+		{
+			"id": 11,
+			"name": "Cersei Lannister",
+			"birthDate": "261 AC",
+			"appearances": "62 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Lena Headey",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b0/CERSEIBATTLEOFKINGSLANDING.PNG/revision/latest/scale-to-width-down/338?cb=20190906021534"
+		},
+		{
+			"id": 12,
+			"name": "Jaime Lannister",
+			"birthDate": "261 AC",
+			"appearances": "55 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Nikolaj Coster-Waldau",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b8/Jaime_S8_redemption_infobox.png/revision/latest/scale-to-width-down/350?cb=20190906020647"
+		},
+		{
+			"id": 13,
+			"name": "Bronn",
+			"birthDate": "unknown",
+			"appearances": "36 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Jerome Flynn",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/f/f5/Bronn_S8E6.png/revision/latest/scale-to-width-down/350?cb=20190523154552"
+		},
+		{
+			"id": 14,
+			"name": "Gregor Clegane",
+			"birthDate": "unknown",
+			"appearances": "24 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Conan Stevens",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/ad/GregorCB.png/revision/latest/scale-to-width-down/350?cb=20190513100430"
+		},
+		{
+			"id": 15,
+			"name": "Qyburn",
+			"birthDate": "unknown",
+			"appearances": "22 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Anton Lesser",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/8/8a/804_Qyburn_Profile.png/revision/latest/scale-to-width-down/350?cb=20190508024406"
+		},
+		{
+			"id": 16,
+			"name": "Euron Greyjoy",
+			"birthDate": "unknown",
+			"appearances": "9 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Pilou Asbæk",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/f/fc/Euron-Profile.PNG/revision/latest/scale-to-width-down/318?cb=20170916200257"
+		},
+		{
+			"id": 17,
+			"name": "Yara Greyjoy",
+			"birthDate": "unknown",
+			"appearances": "16 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Gemma Whelan",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg/revision/latest/scale-to-width-down/303?cb=20160808022737"
+		},
+		{
+			"id": 18,
+			"name": "Theon Greyjoy",
+			"birthDate": "281",
+			"appearances": "47 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Alfie Allen",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/7/78/TheonS8E1.PNG/revision/latest/scale-to-width-down/314?cb=20190415192721"
+		},
+		{
+			"id": 19,
+			"name": "Alfie Allen",
+			"birthDate": "unknown",
+			"appearances": "42 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Liam Cunningham",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/9/9d/DAVOSINFOBOXBELLS.PNG/revision/latest/scale-to-width-down/304?cb=20190513052340"
+		},
+		{
+			"id": 20,
+			"name": "Davos_Seaworth",
+			"birthDate": "unknown",
+			"appearances": "42 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Liam Cunningham",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/9/9d/DAVOSINFOBOXBELLS.PNG/revision/latest/scale-to-width-down/304?cb=20190513052340"
+		},
+		{
+			"id": 21,
+			"name": "Gendry Baratheon",
+			"birthDate": "281",
+			"appearances": "24 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Joe Dempsie",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/7/7b/GendryBaratheon.png/revision/latest/scale-to-width-down/350?cb=20190520221935"
+		},
+		{
+			"id": 22,
+			"name": "Varys",
+			"birthDate": "unknown",
+			"appearances": "46 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Conleth Hill",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/f/ff/Varys8x05Dragonstone.PNG/revision/latest/scale-to-width-down/332?cb=20190513041715"
+		},
+		{
+			"id": 23,
+			"name": "Samwell Tarly",
+			"birthDate": "280 AC",
+			"appearances": "48 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "John Bradley",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/8/8f/Maester_Sam.png/revision/latest/scale-to-width-down/350?cb=20190609215621"
+		},
+		{
+			"id": 24,
+			"name": "Tormund",
+			"birthDate": "unknown",
+			"appearances": "33 episodes",
+			"status": "ALIVE",
+			"potrayedBy": "Kristofer Hivju",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/4/49/TormundWinterfell.PNG/revision/latest/scale-to-width-down/307?cb=20190415184600"
+		},
+		{
+			"id": 25,
+			"name": "Sandor Clegane",
+			"birthDate": "unknown",
+			"appearances": "38 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Rory McCann",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/b/b5/SandorConfrontsGregor.PNG/revision/latest/scale-to-width-down/326?cb=20190513053354"
+		},
+		{
+			"id": 26,
+			"name": "Melisandre",
+			"birthDate": "100 BC",
+			"appearances": "29 episodes",
+			"status": "DECEASED",
+			"potrayedBy": "Carice van Houten",
+			"photoUrl": "https://static.wikia.nocookie.net/gameofthrones/images/1/1c/Melisandre8x01.PNG/revision/latest/scale-to-width-down/312?cb=20190429175309"
+		}
+	]
+}
