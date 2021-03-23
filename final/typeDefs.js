@@ -17,7 +17,7 @@ const typeDefs = gql`
 		getCharacters: [Character!]
 		getCharacterById: Character!
 		getRandomCharacter: Character!
-		getCharByString: Character
+		getCharacterByString: Character
 	}
 
 	enum Status {
