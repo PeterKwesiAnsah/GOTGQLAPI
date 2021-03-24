@@ -11,7 +11,7 @@ const resolvers = {
 		},
 		getRandomCharacter: () => {
 			//get random IDs between 1 and 26
-			const randomID = Math.floor(Math.random() * 26);
+			const randomID = Math.floor(Math.random() * 26 + 1);
 
 			return model.findById(randomID);
 		},
