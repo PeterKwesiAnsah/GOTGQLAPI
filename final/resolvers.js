@@ -1,14 +1,20 @@
 //importing our characters data model
 import model from './db/index.js';
-console.log(model.getState())
-
 
 //creating resolvers
-
 const resolvers = {
 	Query: {
 		//resolving getCharaters query field
-		getCharacters: () => model.get('characters').value(),
+		getCharacters: () => model.getAll(),
+		getCharacterById: (_, { characterID }) => {
+			return model.findById(characterID);
+		},
+		getRandomCharacter: () => {
+			//get random IDs between 1 and 26
+			const randomID = Math.floor(Math.random() * 26);
+
+			return model.findById(randomID);
+		},
 	},
 };
 

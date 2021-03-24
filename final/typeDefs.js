@@ -15,7 +15,7 @@ const typeDefs = gql`
 
 	type Query {
 		getCharacters: [Character!]
-		getCharacterById: Character!
+		getCharacterById(characterID: Int!): Character
 		getRandomCharacter: Character!
 		getCharacterByString: Character
 	}
