@@ -15,6 +15,8 @@ const resolvers = {
 
 			return model.findById(randomID);
 		},
+
+		searchCharByName: (_, { queryString }) => model.filter(queryString),
 	},
 };
 

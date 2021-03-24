@@ -17,7 +17,7 @@ const typeDefs = gql`
 		getCharacters: [Character!]
 		getCharacterById(characterID: Int!): Character
 		getRandomCharacter: Character!
-		getCharacterByString: Character
+		searchCharByName(queryString: String!): [Character]
 	}
 
 	enum Status {

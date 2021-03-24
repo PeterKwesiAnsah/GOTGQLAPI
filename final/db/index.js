@@ -12,4 +12,14 @@ export default {
 	getAll: () => model.getState().characters,
 	findById: (characterID) =>
 		model.get('characters').find({ id: characterID }).value(),
+	filter: function (queryString) {
+		//get all the characters
+		const characters = this.getAll();
+        //filter by name
+		const results = characters.filter((character) =>
+			character.name.toLowerCase().includes(queryString.toLowerCase())
+		);
+
+		return results;
+	},
 };
