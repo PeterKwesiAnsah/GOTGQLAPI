@@ -9,7 +9,7 @@ const server = new ApolloServer({
 	typeDefs,
 	resolvers,
 	introspection: true,
-	playground: true,
+	playground: true
 });
 
 //launch server
