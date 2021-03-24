@@ -7,7 +7,7 @@ const { ApolloServer } = apolloServer;
 //create server
 const server = new ApolloServer({
 	typeDefs,
-	resolvers,
+	resolvers
 });
 
 //launch server
